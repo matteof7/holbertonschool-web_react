@@ -12,7 +12,7 @@ const teacher3: Teacher = {
     lastName: "Doe",
     fulltimeemployee: false,
     yearsofexperience: 0,
-    location: "New York",
+    location: "London",
     contract: false, 
 };
 
